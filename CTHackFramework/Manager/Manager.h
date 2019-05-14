@@ -4,8 +4,8 @@
 #include <vector>
 
 #include "../Process/Process.h"
-#include "..//Game/GameStruct.h"
-#include "..//Game/GameData.h"
+#include "../Game/GameStruct.h"
+#include "../Game/GameData.h"
 
 class Manager
 {
@@ -19,7 +19,9 @@ public:
 	~Manager();
 
 public:
-	void GetKeyBoardInput();
+	void HandleKeyBoardInput();
+	void HandleMouseInput();
+	void UpdateFromConfigFile();
 
 private:
 };
