@@ -64,7 +64,7 @@
     <p>&emsp;Counter-Strike: Global Offensive 外部外挂: <a href="https://github.com/CelestialTS/CSGO-External-Hack">CSGO External Hack</a></p>
     <p>&emsp;主要功能：ESP透视（DirectX Overlay），Glow透视，雷达显人，bHop，自动扳机，自瞄等。</p>
     <p>&emsp;Counter-Strike: Global Offensive 内部外挂: <a href="https://github.com/CelestialTS/CSGO-Internal-Hack">CSGO Internal Hack</a></p>
-    <p>&emsp;主要功能：自动扳机，锁头，FOV微自喵，Glow透视，雷达显人，bHop，改枪皮等。</p>
+    <p>&emsp;主要功能：自动扳机，自喵，微自瞄，自动压枪，Glow透视，雷达显人，bHop，改枪皮，改刀等。</p>
 <h2>声明</h2>
 <ul>
     <li>本程序仅为通用框架并非完整的具有功能的外挂，需要在该框架的基础上进行二次开发从而实现特定的功能。</li>
